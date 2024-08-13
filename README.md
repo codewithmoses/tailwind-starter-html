@@ -1,5 +1,7 @@
 # Tailwind CSS Starter Template
 
+# Tailwind Starter Preview
+- Demo site: [Preview starter site](https://codewithmoses.github.io/tailwind-starter-html/)
 This project is a simple, responsive starter template built with Tailwind CSS, Font Awesome, and Google Fonts. It serves as a foundation for creating modern, fast, and accessible websites with ease.
 
 ## Project Overview
@@ -41,7 +43,6 @@ The footer contains copyright information and social media links represented by 
   - CDN: [Font Awesome CDN](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css)
 - **Google Fonts:** The Montserrat font is used to give the site a clean, professional appearance.
   - Google Fonts: [Montserrat Font](https://fonts.google.com/specimen/Montserrat)
-
 ## How to Use
 
 1. **Clone the Repository:**
